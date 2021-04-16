@@ -1,0 +1,183 @@
+<mjml>
+  <mj-head>
+    <mj-title>Hextone 2020 Annual Meeting</mj-title>
+    <mj-preview>Its time to vote!</mj-preview>
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto"
+    />
+    <mj-style inline="inline">
+      .intro-text {
+        margin-top: 0px;
+         color: #0C4778;
+         font-size: 20px;
+      }
+      .title {
+        font-size: 36px;
+        text-transform: uppercase;
+        margin: 0px;
+      }
+      .body-section {
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+     <mj-attributes>
+      <mj-text padding="0" />
+      <mj-breakpoint width="600px" />
+      <mj-all font-family="Roboto" font-size="16px" line-height="1.25"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#EDEDED" width="600px">
+    <mj-section full-width="full-width" background-color="#0C4778" padding="0">
+      <mj-spacer height="10px" />
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+          align="left"
+          src="./images/logo-outline-01.png"
+          width="180px"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section
+      full-width="full-width"
+      background-url="./images/maxim-hopman-fiXLQXAhCfk-unsplash-edit-web-1000@2x.jpg"
+      background-size="cover"
+      background-repeat="no-repeat"
+      background-position="center center"
+    >
+      <mj-column
+        padding-top="75px"
+        padding-bottom="75px"
+        width="600px"
+        css-class="image-header"
+      >
+        <mj-text align="center" color="#fff" font-size="40px" padding-bottom="20px"
+          ><h1 class="title"><b>Its Time To Vote</b></h1></mj-text
+        >
+        <mj-image src="./images/meeting-deadline@2x.png" width="276px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0" css-class="body-section">
+      <mj-column padding="20px">
+        <mj-text><h2 class="intro-text">Why Should I Vote?</h2></mj-text>
+        <mj-text
+          >Your vote counts! It doesn’t matter how much you have invested –
+          votes from all types of investors make the difference in important
+          proposals. Plus, it’s fast and easy to cast your vote at
+          ProxyVote.com.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="body-section"
+      background-url="./images/computer-big@2x-crop.jpg"
+      background-size="cover"
+      background-position="center center"
+      border-left="2px solid #ffffff"
+      border-right="2px solid #ffffff"
+      border-bottom="2px solid #ffffff"
+    >
+     <mj-column
+        padding-top="40px"
+        padding-bottom="40px"
+      >
+      <mj-button background-color="#0C4778" href="#" border="solid 1px #ffffff" color="#ffffff" text-transform="uppercase">Vote Online Now!</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" css-class="body-section">
+      <mj-column
+        padding="0px"
+        width="50%"
+        border-left="2px solid #ffffff"
+      border-right="1px solid #ffffff"
+      >
+        <mj-image src="./images/phone@2x.jpg" padding="0px" />
+        
+      </mj-column>
+      
+      <mj-column
+        padding="0px"
+        width="50%"
+        border-left="1px solid #ffffff"
+      border-right="2px solid #ffffff"
+      >
+        <mj-image src="./images/meeting@2x.jpg" padding="0px" height="auto"/>
+        
+      </mj-column>
+      </mj-section>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column width="33%"
+        ><mj-text align="center" font-size="12px"
+          ><b>Control Number</b><br />
+          0123456789012345</mj-text
+        ></mj-column
+      >
+      <mj-column width="33%"
+        ><mj-text align="center" font-size="12px"
+          ><b>Account Number</b><br />
+          12345678901234567890</mj-text
+        ></mj-column
+      >
+      <mj-column width="33%" 
+        ><mj-text align="center" font-size="12px"
+          ><b>Meeting Date</b><br />
+          September 1, 2021</mj-text
+        ></mj-column
+      >
+    </mj-section>
+    <mj-section padding="0">
+      <mj-spacer height="20px" />
+    </mj-section>
+    <mj-section background-color="#dddddd" padding="20px">
+      <mj-text align="center" font-size="14px"
+        >Issuer text: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
+        ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas
+        accumsan lacus vel facilisis.
+      </mj-text>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-spacer height="5px" />
+    </mj-section>
+    <mj-section>
+      <mj-text align="center" font-size="12px"
+        ><a href="" target="_blank">Annual Report</a> | <a href="" target="_blank">Proxy Statement</a> | <a href="" target="_blank">Shareholder Letter</a>
+      </mj-text>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-spacer height="5px" />
+    </mj-section>
+    <mj-section background-color="#E34544" padding="0">
+      <mj-spacer height="2px" />
+    </mj-section>
+    <mj-section>
+      <mj-column width="33%" padding="10px">
+        <mj-image
+          align="left"
+          src="./images/logo-proxyvote.png"
+          width="180px"
+        />
+      </mj-column>
+      <mj-column width="66%" padding="10px"
+        ><mj-text font-size="10px"
+          >(c) 1997-2020 Broadridge Financial Solutions Inc. P.O. Box 1310,
+          Brentwood, NY 11717<br /><br />ProxyVote and Broadridge are trademarks
+          of Broadridge Financial Solutions Inc. CUSIP is a registered trademark
+          of the American Bankers Association. All other registered marks belong
+          to their respective owners.<br /><br />
+          <a href="" target="_blank">Email Settings</a> | <a href="" target="_blank">Terms and
+          Conditions</a> | <a href="" target="_blank">Privacy Statement</a></mj-text
+        ></mj-column
+      >
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#0C4778" padding="0">
+      <mj-spacer height="30px" />
+    </mj-section>
+  </mj-body>
+</mjml>
